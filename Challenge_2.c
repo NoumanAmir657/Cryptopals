@@ -22,8 +22,6 @@ int main(){
             printf("%d", x[i]);
         }
     }
-    //printf("%lld", temp);
-    //printf("%lld", temp2);
 
 }
 
